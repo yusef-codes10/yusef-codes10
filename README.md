@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ## 👋 Greetings, I'm Yusef
 
-I'm a creative developer exploring **AI**, **JavaScript**, and **design-driven projects**.
+Your friendly neighborhood **developer**
+Exploring **AI**, **JavaScript**, and **design-driven projects**.
 
 - 🌱 Currently building: **NOVA-rebooted** — an AI assistant prototype  
 - 🎥 Previously built: **Cinemock** — a Netflix-style web app  
